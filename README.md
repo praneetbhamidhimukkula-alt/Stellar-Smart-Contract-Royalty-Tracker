@@ -1,5 +1,5 @@
 # Royalty Tracker
-
+#Name: Praneet Bhamidhimukkula
 ## Project Title
 **Royalty Tracker - Decentralized Royalty Distribution Platform**
 
@@ -125,7 +125,7 @@ soroban contract build
 
 # Run tests
 cargo test
-```
+``` 
 
 ### Deployment
 ```bash
