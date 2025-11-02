@@ -3,6 +3,10 @@
 ## Project Title
 **Royalty Tracker - Decentralized Royalty Distribution Platform**
 
+CONTRACT DETAILS- CC7OATDNEPX7QWU24PWDZGN6IF4RRBZDBW6OFFQIBZD5WU5ZNY57VL2O
+![WhatsApp Image 2025-11-02 at 16 22 06](https://github.com/user-attachments/assets/f01c1c52-c214-48bf-9edf-67b44e153caa)
+
+
 ## Project Description
 Royalty Tracker is a decentralized platform built on the Stellar blockchain using Soroban smart contracts. It enables multiple creators (musicians, podcasters, YouTubers, writers, and other content creators) to collaboratively upload projects and automatically split royalties based on predefined percentages. 
 
@@ -137,3 +141,4 @@ soroban contract deploy \
 
 ## Contributing
 We welcome contributions from the community! Please read our contributing guidelines and submit pull requests for any enhancements.
+
