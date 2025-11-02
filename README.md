@@ -1,5 +1,5 @@
 # Royalty Tracker
-#Name: Praneet Bhamidhimukkula
+# Name: Praneet Bhamidhimukkula
 ## Project Title
 **Royalty Tracker - Decentralized Royalty Distribution Platform**
 
